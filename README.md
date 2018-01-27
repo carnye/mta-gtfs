@@ -1,6 +1,6 @@
 # mta-gtfs
 
-An NYC MTA API library
+An NYC MTA API library -by sean
 
 ## Install
 
